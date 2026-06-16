@@ -1,0 +1,6 @@
+{
+  "name": "Meta Impulso",
+  "description": "Apresentação comercial premium da agência Meta Impulso com exportação para o Google Slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
